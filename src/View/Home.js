@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import BookShelf from '../Components/BookShelf';
+import AddBook from '../Components/AddBook';
 
 class Home extends Component {
     render() {
@@ -16,4 +18,4 @@ class Home extends Component {
     }
 }
 
-export default Search;
+export default Home;
